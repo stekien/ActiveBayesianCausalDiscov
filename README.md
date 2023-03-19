@@ -3,7 +3,7 @@
 The Python Codes, Figures and data objects contained in the folders are the ones used to produce
 the numerical results in my masters thesis: Active Bayesian Causal Discovery with Gaussian Process Newtworks.
 
-My masters thesis and a presentation about it are also included in the repo.
+My masters thesis and presentation are also included in the repo.
 
 For every result or figure, all data and the code, which was used to produce the results, is stored in the folders. 
 
